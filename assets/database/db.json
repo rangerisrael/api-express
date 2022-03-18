@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Barber Shop",
+    "location": "Brgy 03 Maria Aurora",
+    "type": "Offering Services",
+    "desc": "Make your hair neat and clean"
+  },
+  {
+    "id": 2,
+    "name": "Vendor Shop",
+    "location": "Brgy 01 Maria Aurora",
+    "type": "Offering Services",
+    "desc": "Fresh food made fresh body"
+  },
+  {
+    "id": 3,
+    "name": "Cake Shop",
+    "location": "Brgy 02 Maria Aurora",
+    "type": "Offering Services",
+    "desc": "Eat with sweet recipe in enjoyable moment"
+  }
+]
