@@ -12,7 +12,6 @@
 	"author": "ISRAEL ALISOSO",
 	"license": "ISC",
 	"dependencies": {
-		"api-localdb": "1.0.1",
 		"api-localdb-latest": "1.0.1",
 		"cors": "^2.8.5",
 		"express": "^4.17.3",
